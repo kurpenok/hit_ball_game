@@ -2,4 +2,4 @@
 
 ### Screenshot
 
-![Screenshot](game.png)
+![Screenshot](images/screenshot.png)
